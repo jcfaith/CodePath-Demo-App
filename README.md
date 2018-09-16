@@ -1,11 +1,10 @@
 ## CodePath-Demo-App
 
 ### App Description
-
 First app created
 
 ### App Walk-through
-http://recordit.co/HsQv30egRC
+http://g.recordit.co/HsQv30egRC.gif
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
