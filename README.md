@@ -4,7 +4,7 @@
 First app created
 
 ### App Walk-through
-http://g.recordit.co/HsQv30egRC.gif
+<img src=http://g.recordit.co/HsQv30egRC.gif width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
